@@ -9,3 +9,4 @@ Trading utilities is a platform that helps people learn trading theory, methods 
 This trading utilities improves trading knowledge, reduces mismatch, mistake in trading entities processing.
 
 ### Notes
+https://six-zinc-ad4.notion.site/Trading-utilities-1bb5e832d6ee8018886adce8363a0e7f
