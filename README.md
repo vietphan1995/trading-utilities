@@ -11,4 +11,4 @@ This trading utilities improves trading knowledge, reduces mismatch, mistake in 
 [back to projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://six-zinc-ad4.notion.site/Trading-utilities-1bb5e832d6ee8018886adce8363a0e7f
+https://phantrungviet.notion.site/Trading-utilities-1bb5e832d6ee8018886adce8363a0e7f
