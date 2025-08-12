@@ -10,7 +10,7 @@ Trading utilities is a platform that helps people learn trading theory, methods 
 
 This trading utilities improves trading knowledge, reduces mismatch, mistake in trading entities processing.
 
-[back to git projects …](https://github.com/vietphan1995/projects)
+### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/Trading-utilities-1bb5e832d6ee8018886adce8363a0e7f
+https://phantrungviet.notion.site/trading-utilities-1bb5e832d6ee8018886adce8363a0e7f
